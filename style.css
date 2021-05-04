@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(lightpink, white, lightpink);
+
+}
+
+#contact {
+    background: lightblue;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact1 h3 {
+    display: inline;
+}
+
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+.links:hover {
+    text-decoration-color: darkturquoise;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.profile {
+    width: 200px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    border: 5px solid darkblue;
+    padding: 5px;
+
+}
+
+
+
+#fav player {
+    background-color: lightblue;
+
+}
+
+a {
+    text-decoration: none;
+    color: crimson;
+    text-shadow: 2px 2px gainsboro;
+}
+
+.article:hover {
+    color: fuchsia;
+}
